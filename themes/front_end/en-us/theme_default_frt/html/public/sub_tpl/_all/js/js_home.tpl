@@ -1,0 +1,1 @@
+<script src="themes/front_end/{{setting_abbr_lang_frt}}/{{setting_theme_folder_frt}}/js/jsfile.js"></script>

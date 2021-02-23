@@ -1,0 +1,1 @@
+<script src="../themes/back_end/{{setting_abbr_lang_bck}}/{{setting_theme_folder_bck}}/js/jsfile.js"></script>
