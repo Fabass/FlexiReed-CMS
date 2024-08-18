@@ -1,2 +1,3 @@
 # FlexiReed CMS
- A lightweight, highly flexible & ultra fast CMS written in PHP. Handy like a CMS, powerful like a framework!
+A PHP-based CMS combining high performance & scalability.
+Regain control over your code, from scratch to scratch.
